@@ -43,6 +43,7 @@ merged_modules = {
     "project_task_dependency": "project",
     # OCA/web
     "web_decimal_numpad_dot": "web",
+    "web_switch_context_warning": "web",
 }
 
 # only used here for upgrade_analysis
